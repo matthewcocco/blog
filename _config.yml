@@ -2,8 +2,8 @@
 title: matthew cocco
 email: hello@matthewcocco.com
 description: "student, developer, connector."
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://matthewcocco.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.matthewcocco.com" # the base hostname & protocol for your site
 twitter_username: thematthewcocco
 github_username:  matthewcocco
 
