@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Matthew Cocco - an undergraduate Information Technology and Systems student at the University of Texas at Dallas.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I spend a lot of time collecting and condensing information and develop websites.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I love [ZURB][ZURB]'s [Foundation framework][foundation], which makes web prototyping a breeze.
+
+HTML/CSS is my bread and butter. I'm most familiar with Python, of the pleasant-to-program-in languages.
+
+I'm learning Ruby on Rails, the [Ionic framework][ionic] and proper [Android][android] development.
+
+[ZURB]:http://zurb.com
+[foundation]:http://foundation.zurb.com
+[ionic]:http://ionicframework.com/
+[android]:http://developer.android.com/
