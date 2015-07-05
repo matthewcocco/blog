@@ -1,3 +1,7 @@
+/* ==========================================================================
+   BASE
+   ========================================================================== */
+
 /**
  * Reset some basic elements
  */
@@ -14,12 +18,13 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+    background: $brand-color-2;
+    color: $text-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
+    font-weight: 400;
     line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+
     -webkit-text-size-adjust: 100%;
 }
 
@@ -41,8 +46,12 @@ ul, ol, dl, figure,
  * Images
  */
 img {
+    display: block;
+    height: auto;
+    margin: auto;
     max-width: 100%;
     vertical-align: middle;
+    width: auto;
 }
 
 
@@ -80,7 +89,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 400;
 }
 
 
@@ -92,13 +101,14 @@ a {
     color: $brand-color;
     text-decoration: none;
 
+    @include transition($transition-base);
+
     &:visited {
         color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $grey-color;
     }
 }
 
@@ -108,12 +118,10 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    background: $grey-color-light;
+    margin-left: -($spacing-unit / 3);
+    margin-right: -($spacing-unit / 3);
+    padding: $spacing-unit / 3;
 
     > :last-child {
         margin-bottom: 0;
@@ -127,24 +135,25 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
     background-color: #eef;
+    font-family: $base-font-family-mono;
+    font-size: 15px;
 }
 
 code {
-    padding: 1px 5px;
+    padding: 4px;
 }
 
 pre {
-    padding: 8px 12px;
+    margin-left: - $spacing-unit;
+    margin-right: - $spacing-unit;
     overflow-x: scroll;
+    padding: ($spacing-unit / 3) $spacing-unit;
 
     > code {
         border: 0;
-        padding-right: 0;
         padding-left: 0;
+        padding-right: 0;
     }
 }
 
@@ -154,19 +163,17 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    margin-right: auto;
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         padding-left: $spacing-unit / 2;
+        padding-right: $spacing-unit / 2;
     }
 }
 
@@ -178,9 +185,9 @@ pre {
 %clearfix {
 
     &:after {
+        clear: both;
         content: "";
         display: table;
-        clear: both;
     }
 }
 
@@ -193,9 +200,9 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
         height: 16px;
         vertical-align: middle;
+        width: 16px;
 
         path {
             fill: $grey-color;

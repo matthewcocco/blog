@@ -2,7 +2,8 @@
 layout: post
 title:  "Cloudflare + Github"
 date:   2015-07-01 00:00:00
-categories: technical blog website
+category: technical
+tags: blog website jekyll github cloudflare
 ---
 
 Configuring Cloudflare and GitHub to work together properly was not obvious to me from the documentation - this post is here mainly for my reference if I need to do this again.
@@ -35,4 +36,4 @@ so what's the process I used?
 [codedge-blog-setup]:http://codedge.io/blog/github/jekyll/web/2015/05/06/setting-up-a-jekyll-blog-on-a-github-pages-subdirectory.html
 [blog-repo]:https://github.com/matthewcocco/blog/tree/gh-pages
 
-[cloudflare-config]:/assets/img/matthewcocco-dot-com-dns-records.png
+[cloudflare-config]:/assets/images/matthewcocco-dot-com-dns-records.png
