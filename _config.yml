@@ -1,5 +1,5 @@
 # Site settings
-title: Matthew Cocco
+title: Matthew Cocco's Blog
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://blog.matthewcocco.com' # the base hostname & protocol for your site
@@ -30,3 +30,5 @@ defaults:
         # Social
         share_buttons: false
         disqus: false
+
+exclude: [_posts/unpublished]
