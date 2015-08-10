@@ -4,8 +4,8 @@ title: "Week 1: Saarbrücken"
 date: 2015-08-08
 backgrounds:
     - /assets/images/posts/001/originals/wiki-schloss-saarbruecken.jpg
-    - /assets/images/posts/001/originals/wiki-saarbruecken-hauptbahnhof.jpg
     - /assets/images/posts/001/originals/wiki-ludwigskirche.jpg
+    - /assets/images/posts/001/originals/wiki-saarbruecken-hauptbahnhof.jpg
     - /assets/images/posts/001/fabi-steel-factory-exterior.jpg
     - /assets/images/posts/001/fabi-steel-factory.jpg
 thumb: /assets/images/squad-resized.png
@@ -13,9 +13,13 @@ categories: CBYX
 tags: travel cbyx home germany
 ---
 
-Well, I made it - I'm going to be in Saarbrücken, in the heart of Saarland, which is a Bundesland (state) of Germany on the Germany-France border. Paris is about two hours away by train.
+**I made it!** 
 
-Where's Saarbruecken? Well, it's in Saarland (in Germany).
+I'm going to be in Saarbrücken, in the heart of Saarland, which is a Bundesland (state) of Germany on the Germany-France border. Paris is about two hours away by train.
+
+Where's Saarbruecken? 
+
+In the state of Saarland, which is in southwestern Germany.
 ![Map of Germany, focused on Saarbruecken][map-deu-saar]
 
 Within Saarland, it's here:
@@ -25,22 +29,27 @@ Within Saarland, it's here:
 
 ## \#Host Family & Accommodations
 
-My host family's great; they've got a house in the scenic [Altenkessel][link-altenkessel] with decent access to public transit.
+My host family's great; they've got a house in the scenic [Altenkessel][link-altenkessel] quarter with decent access to public transit (one bus is a three minute walk; the other is about 10 minutes away).
+
+I've got a private room with a queen-sized mattress and the classic german pillow/duvet combo; I've also got a dresser and a small couch.
 
 Check out this view from my balcony:
 ![Countryside view][view-from-balcony]
 
+My host family also has a pool, wonderfully *angenehm* in the 37C+ heat:
+![The pool][host-family-pool]
+
 Public transit here is mainly busses (there is the one S-Bahn, but it only really goes a few places; not at all comparable to Berlin's U- and S-Bahn coverage), most of which operate at half-hourly or hourly intervals. I'm about a half-hour away from the city interior and forty-five minutes from the language school.
 
-Read: planning for travel is required.
+Read: planning ahead for travel into the city is required.
 
-Here's what happened this week.
+Without further ado, here's what happened this week:
 
 ## \#Language School
 
-On Monday, we went straight into language school, starting Monday through Friday at 8AM. Days usually end around 4PM (but on Fridays, we get out at noon!) with a forty-five minute lunch break.
+On Monday, we went straight into language school, starting every weekday at 8:30. Days usually end around 4PM (except on Fridays, where we're done at noon).
 
-Unterricht (class) is conducted in sessions of one-and-a-half-hour sessions, broken up by thirty- or fifteen-minute breaks. A bit long, for my tastes (I prefer forty-five minute blocks with breaks in between; it helps me stay focused).
+*Unterricht* (class) is conducted in sessions of one-and-a-half-hour sessions, broken up by thirty- or fifteen-minute breaks. A bit long, for my tastes (I prefer forty-five minute blocks with breaks in between; it helps me stay focused).
 
 I'll adjust.
 
@@ -66,7 +75,7 @@ On the 31st of July, we took a tour with Johannes, our tutor - he showed us a bi
 
 On the 8th of August, we visited the Völklingen Ironworks, an old (mostly) decommissioned iron and steel processing facility. It's known here as the *Weltkulturerbe Völklinger Hütte*, and is one of the UNESCO World Heritage sites.
 
-Neat photos follow:
+Neat photos (courtesy of fellow CBYXer Fabienne) follow:
 
 ![Steel Factory exterior, photo cred to Fabienne][fabi-steel-factory-exterior]
 
@@ -74,7 +83,7 @@ Neat photos follow:
 
 ![Steel Factory, photo cred to Fabienne][fabi-steel-factory-rooftop]
 
-There was also an art gallery inside:
+There was also an art gallery:
 
 ![Art hallway view, photo cred to Fabienne][fabi-art-hallway-1]
 
@@ -83,6 +92,8 @@ There was also an art gallery inside:
 ![A geometric piece. Photo cred to Fabienne][fabi-art-triangles-mesh]
 
 ![Art hallway view 2, photo cred to Fabienne][fabi-art-hallway-2]
+
+**...and that's my first week here in Saarbrücken.**
 
 
 <!--- links -->
@@ -93,6 +104,7 @@ There was also an art gallery inside:
 
 [map-saar-saarland]:/assets/images/map-of-saarbruecken-in-saarland.png
 [map-deu-saar]:/assets/images/map-of-germany-focus-saarland.png
+[host-family-pool]:/assets/images/posts/001/host-family-pool.jpg
 [view-from-balcony]:/assets/images/posts/001/view-from-saarbruecken-placement-1.jpg
 [saarbruecken-squad]:/assets/images/squad-resized.png
 
