@@ -94,7 +94,7 @@ There was also an art gallery inside:
 [map-saar-saarland]:/assets/images/map-of-saarbruecken-in-saarland.png
 [map-deu-saar]:/assets/images/map-of-germany-focus-saarland.png
 [view-from-balcony]:/assets/images/posts/001/view-from-saarbruecken-placement-1.jpg
-[saarbruecken-squad]:/assets/images/squad.png
+[saarbruecken-squad]:/assets/images/squad-resized.png
 
 <!--- photos from wikimedia -->
 
