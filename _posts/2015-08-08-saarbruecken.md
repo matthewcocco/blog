@@ -3,9 +3,9 @@ layout: post
 title: "Week 1: Saarbrücken"
 date: 2015-08-08
 backgrounds:
-    - /assets/images/posts/001/wiki-schloss-saarbruecken.jpg
-    - /assets/images/posts/001/wiki-saarbruecken-hauptbahnhof.jpg
-    - /assets/images/posts/001/wiki-ludwigskirche.jpg
+    - /assets/images/posts/001/original/wiki-schloss-saarbruecken.jpg
+    - /assets/images/posts/001/original/wiki-saarbruecken-hauptbahnhof.jpg
+    - /assets/images/posts/001/original/wiki-ludwigskirche.jpg
     - /assets/images/posts/001/fabi-steel-factory-exterior.jpg
     - /assets/images/posts/001/fabi-steel-factory.jpg
 thumb: /assets/images/squad.png
@@ -98,8 +98,8 @@ There was also an art gallery inside:
 
 <!--- photos from wikimedia -->
 
-[schloss]:/assets/images/posts/001/wiki-schloss-saarbruecken.jpg
-[ludwigskirche]:/assets/images/posts/001/wiki-ludwigskirche.jpg
+[schloss]:/assets/images/posts/001/wiki-schloss-saarbruecken.png
+[ludwigskirche]:/assets/images/posts/001/wiki-ludwigskirche.png
 
 <!---
   Photo credits for these go to fellow CBYX/PPP-er Fabienne.
