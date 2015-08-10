@@ -8,7 +8,7 @@ backgrounds:
     - /assets/images/posts/001/original/wiki-ludwigskirche.jpg
     - /assets/images/posts/001/fabi-steel-factory-exterior.jpg
     - /assets/images/posts/001/fabi-steel-factory.jpg
-thumb: /assets/images/squad.png
+thumb: /assets/images/squad-resized.png
 categories: CBYX
 tags: travel cbyx home germany
 ---
