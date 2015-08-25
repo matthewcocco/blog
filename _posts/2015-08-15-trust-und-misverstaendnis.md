@@ -5,7 +5,7 @@ date: 2015-08-15
 backgrounds:
     - /assets/images/backgrounds/unsplash/drawing-tools.jpg
     - /assets/images/backgrounds/unsplash/old-cameras.jpg
-thumb: /assets/images/
+thumb: /assets/images/thumbs/atop-a-building.jpg
 categories: CBYX
 tags: travel cbyx trust misunderstanding germany
 ---

@@ -16,7 +16,7 @@ tags: travel cbyx training trier germany
 
 This week, we learned about our final placements, finished opening our bank accounts, had some intercultural training to prepare us for the workplace, and visited Trier.
 
----
+-
 
 Good news! The host family situation is markedly improved.
 
@@ -24,7 +24,7 @@ It turns out that they were expecting me to at least just check in when I get ho
 
 Fundamentally, though, there's a bit of a chemistry mismatch, so I won't be staying with them for the rest of the year. Unfortunate, but not something I'm upset about - according to the program, it happens to a few participants each year - of 75 matches, it's understandably difficult to achieve 100% compatibility for 100% of participants.
 
----
+-
 
 My final placement will be in Saarbrücken - I already knew that I'd be in this Bundesland (Saarland), of course, but wasn't sure where I'd be studying.
 
@@ -128,7 +128,7 @@ We also visited the palace:
 
 ![Coliseum stone][p-coliseum-stone]
 
------
+-
 
 That's all for this week; stay tuned for more. I'm excited that we're coming up on the university-study period.
 
